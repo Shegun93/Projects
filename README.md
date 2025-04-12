@@ -12,7 +12,7 @@ This repository contains multiple mini-projects, including:
 ---
 
 ## 🛠 **Technologies Used**
-- **Python** (Pandas, NumPy, Matplotlib)  
+- **Python** (Pandas, NumPy, Matplotlib, PyToch and Tensorflow)  
 - **Jupyter Notebook** (Data exploration)  
 - **BeautifulSoup/Requests** (Web scraping)  
 - **Scikit-learn** (Machine Learning)  
