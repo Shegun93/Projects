@@ -23,6 +23,7 @@ This repository contains multiple mini-projects, including:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shegun93/Projects.git
+   cd Projects
    ```
 
 
